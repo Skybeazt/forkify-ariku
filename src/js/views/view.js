@@ -1,4 +1,3 @@
-import { mark } from "regenerator-runtime";
 import icons from "url:../../img/icons.svg"; // Parcel two and above
 export default class View {
   _data;
