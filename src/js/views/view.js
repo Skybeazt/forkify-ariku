@@ -1,5 +1,4 @@
 import icons from "url:../../img/icons.svg"; // Parcel two and above
-import { Fraction } from "fractional";
 export default class View {
   _data;
 
